@@ -1,4 +1,5 @@
 bin/**
 src/github.com/**
 src/golang.org/**
+src/.vscode/**
 pkg/**
